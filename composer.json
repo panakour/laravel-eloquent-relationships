@@ -1,0 +1,30 @@
+{
+  "name": "panakour/laravel-eloquent-relationships",
+  "description": "programmatically get the laravel eloquent relationships.",
+  "keywords": ["laravel", "eloquent", "relationships", "reflection"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Panagiots Koursaris",
+      "email": "panakourweb@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.1",
+    "illuminate/support": "^9.37",
+    "illuminate/database": "^9.37"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "EloquentRelationships\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "EloquentRelationships\\Tests\\": "tests/"
+    }
+  }
+}
