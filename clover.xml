@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1667224925">
-  <project timestamp="1667224925">
+<coverage generated="1667226580">
+  <project timestamp="1667226580">
     <file name="/home/runner/work/laravel-eloquent-relationships/laravel-eloquent-relationships/src/RelationMethods.php">
       <class name="EloquentRelationships\RelationMethods" namespace="global">
         <metrics complexity="1" methods="1" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="1" coveredstatements="1" elements="2" coveredelements="2"/>
