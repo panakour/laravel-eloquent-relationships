@@ -2,6 +2,7 @@
 
 [![tests](https://github.com/panakour/laravel-eloquent-relationships/actions/workflows/tests.yml/badge.svg)](https://github.com/panakour/laravel-eloquent-relationships/actions/workflows/tests.yml)
 ![Code Coverage Badge](./coverage-badge.svg)
+[![Total Downloads](https://img.shields.io/packagist/dt/panakour/laravel-eloquent-relationships.svg?style=flat-square)](https://packagist.org/packages/panakour/laravel-eloquent-relationships)
 
 ### This will let you programmatically get the relations of models in laravel to use them how you want.
 
